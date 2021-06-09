@@ -28,13 +28,13 @@ function Header() {
         <div class="profile-stats">
           <ul>
             <li>
-              <span class="profile-stat-count">164</span> posts
+              <span class="profile-stat-count">364</span> posts
             </li>
             <li>
-              <span class="profile-stat-count">188</span> followers
+              <span class="profile-stat-count">11291</span> followers
             </li>
             <li>
-              <span class="profile-stat-count">206</span> following
+              <span class="profile-stat-count">7912</span> following
             </li>
           </ul>
         </div>
