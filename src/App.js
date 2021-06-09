@@ -12,6 +12,7 @@ function App() {
     <React.Fragment>
       <Header />
       <Gallery Data={Data} />
+      <div className="loader"></div>
     </React.Fragment>
   );
 }

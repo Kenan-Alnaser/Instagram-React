@@ -6,7 +6,7 @@ const Gallery = ({ Data }) => {
   const info = Data.map((obj, i) => {
     const { id, title, location, text, likes, comments, img } = obj;
     return (
-      <div class="container" key={id}>
+      <div class="container galleryContainer" key={id}>
         <div class="gallery">
           <div class="gallery-item" tabindex="0">
             <img src={img} class="gallery-image" alt="" />
