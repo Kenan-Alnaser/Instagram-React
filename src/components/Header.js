@@ -13,7 +13,7 @@ function Header() {
         </div>
 
         <div class="profile-user-settings">
-          <h1 class="profile-user-name"></h1>
+          <h1 class="profile-user-name">Cloey123</h1>
 
           <button class="btn profile-edit-btn">Edit Profile</button>
 
