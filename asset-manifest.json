@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Instagram-React.git/static/css/main.d7a43360.chunk.css",
-    "main.js": "/Instagram-React.git/static/js/main.8894bb2a.chunk.js",
-    "main.js.map": "/Instagram-React.git/static/js/main.8894bb2a.chunk.js.map",
-    "runtime-main.js": "/Instagram-React.git/static/js/runtime-main.c48e537f.js",
-    "runtime-main.js.map": "/Instagram-React.git/static/js/runtime-main.c48e537f.js.map",
-    "static/js/2.6efe1f4b.chunk.js": "/Instagram-React.git/static/js/2.6efe1f4b.chunk.js",
-    "static/js/2.6efe1f4b.chunk.js.map": "/Instagram-React.git/static/js/2.6efe1f4b.chunk.js.map",
-    "index.html": "/Instagram-React.git/index.html",
-    "static/css/main.d7a43360.chunk.css.map": "/Instagram-React.git/static/css/main.d7a43360.chunk.css.map",
-    "static/js/2.6efe1f4b.chunk.js.LICENSE.txt": "/Instagram-React.git/static/js/2.6efe1f4b.chunk.js.LICENSE.txt"
+    "main.css": "/Instagram-React/static/css/main.d7a43360.chunk.css",
+    "main.js": "/Instagram-React/static/js/main.8894bb2a.chunk.js",
+    "main.js.map": "/Instagram-React/static/js/main.8894bb2a.chunk.js.map",
+    "runtime-main.js": "/Instagram-React/static/js/runtime-main.c32a4646.js",
+    "runtime-main.js.map": "/Instagram-React/static/js/runtime-main.c32a4646.js.map",
+    "static/js/2.6efe1f4b.chunk.js": "/Instagram-React/static/js/2.6efe1f4b.chunk.js",
+    "static/js/2.6efe1f4b.chunk.js.map": "/Instagram-React/static/js/2.6efe1f4b.chunk.js.map",
+    "index.html": "/Instagram-React/index.html",
+    "static/css/main.d7a43360.chunk.css.map": "/Instagram-React/static/css/main.d7a43360.chunk.css.map",
+    "static/js/2.6efe1f4b.chunk.js.LICENSE.txt": "/Instagram-React/static/js/2.6efe1f4b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c48e537f.js",
+    "static/js/runtime-main.c32a4646.js",
     "static/js/2.6efe1f4b.chunk.js",
     "static/css/main.d7a43360.chunk.css",
     "static/js/main.8894bb2a.chunk.js"
