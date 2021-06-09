@@ -1,2 +1,0 @@
-(this["webpackJsonpinstagram-react"]=this["webpackJsonpinstagram-react"]||[]).push([[0],{9:function(t,e,n){"use strict";n.r(e);var r=n(1),a=n.n(r),c=n(3),s=n.n(c),i=n(0);var o=function(){return Object(i.jsx)("div",{className:"App"})};s.a.render(Object(i.jsx)(a.a.StrictMode,{children:Object(i.jsx)(o,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.df739050.chunk.js.map
